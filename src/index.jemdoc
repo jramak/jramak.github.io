@@ -1,9 +1,12 @@
 # jemdoc: menu{MENU}{menu.html}{./}
-= jemdoc -- example page
-[https://jemnz.com/ Jacob Mattingley] ([www@jemnz.com])
+= Jagdish Ramakrishnan
 
-If the first line of the file starts with +\# jemdoc+, special functions like will be used.
 
-== Example
-Here are some *text* /features/. I could [http://cvxmod.net/ link somewhere] or insert a raw link to another page like [download.html]. I could use +monospace+, too.
+~~
+{}{img_left}{src/jagdish.jpg}{alt text}{120px}{168px}{src/jagdish.jpg}
 
+Currently, I am a data scientist in the Smart Pricing team at Walmart Labs, where I work on optimization and machine learning approaches for dynamic pricing.  Previously, I was a postdoctoral scholar (research associate) in the optimization group at the Wisconsin Institute for Discovery (WID), University of Wisconsin-Madison, working with Prof. Michael C. Ferris and Prof. James Luedtke.
+
+I received my Ph.D. at MIT in Electrical Engineering and Computer Science (EECS) and was affiliated with the Laboratory for Information and Decision Systems (LIDS). My advisors were Prof. John N. Tsitsiklis, Prof. David Craft, and Prof. Thomas Bortfeld. I previously received my Bachelor's and Master's degrees in Electrical and Computer Engineering (ECE) from Georgia Tech.
+
+My current research interests are approximate dynamic programming and reinforcement learning. I enjoy working on all types of applications. I have previously worked on problems in revenue management (price optimization, demand forecasting), energy management (stochastic unit commitment), medical decision making (radiotherapy treatment planning), and agricultural management (sustainable nutrient management).
