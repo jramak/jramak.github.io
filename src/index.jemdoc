@@ -1,0 +1,9 @@
+# jemdoc: menu{MENU}{menu.html}{./}
+= jemdoc -- example page
+[https://jemnz.com/ Jacob Mattingley] ([www@jemnz.com])
+
+If the first line of the file starts with +\# jemdoc+, special functions like will be used.
+
+== Example
+Here are some *text* /features/. I could [http://cvxmod.net/ link somewhere] or insert a raw link to another page like [download.html]. I could use +monospace+, too.
+
