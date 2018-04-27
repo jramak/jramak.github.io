@@ -1,10 +1,21 @@
 # jemdoc: menu{MENU}{menu.html}{./}
 = Jagdish Ramakrishnan
 
-
+~~~
 {}{img_left}{images/jagdish.jpg}{alt text}{120px}{168px}{images/jagdish.jpg}
+Data Scientist, Walmart Labs, San Bruno, CA \n
+Email: jramakrishnan \[ at \] walmartlabs \[ dot \] com
 
-Currently, I am a data scientist in the Smart Pricing team at Walmart Labs, where I work on optimization and machine learning approaches for dynamic pricing.  Previously, I was a postdoctoral scholar (research associate) in the optimization group at the Wisconsin Institute for Discovery (WID), University of Wisconsin-Madison, working with Prof. Michael C. Ferris and Prof. James Luedtke.
+[https://github.com/jramak Github] \n
+[https://stackoverflow.com/users/7106965/jagdish Stackoverflow] \n
+[https://stats.stackexchange.com/users/147582/jagdish Stats.stackexchange (cross validated)] \n
+[https://scholar.google.com/citations?user=0suisGoAAAAJ&hl=en&oi=ao Google scholar page] \n
+[https://www.linkedin.com/in/jagdish-ramakrishnan-a9590015/ Linkedin]
+~~~
+
+== About Me
+
+I am a data scientist in the Smart Pricing team at Walmart Labs, where I work on optimization and machine learning approaches for dynamic pricing.  Previously, I was a postdoctoral scholar (research associate) in the optimization group at the Wisconsin Institute for Discovery (WID), University of Wisconsin-Madison, working with Prof. Michael C. Ferris and Prof. James Luedtke.
 
 I received my Ph.D. at MIT in Electrical Engineering and Computer Science (EECS) and was affiliated with the Laboratory for Information and Decision Systems (LIDS). My advisors were Prof. John N. Tsitsiklis, Prof. David Craft, and Prof. Thomas Bortfeld. I previously received my Bachelor's and Master's degrees in Electrical and Computer Engineering (ECE) from Georgia Tech.
 
