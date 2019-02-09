@@ -1,11 +1,11 @@
 # jemdoc: menu{MENU}{menu.html}{./}
 = Papers
 
-== Journal Articles and Preprints
+== Papers and Preprints
 
 . [https://arxiv.org/pdf/1801.02259.pdf A Dual Approximate Dynamic Programming Approach for Multi-stage Stochastic Unit Commitment] \n
 J. Ramakrishnan and J. Luedtke \n
-submitted, *Computational Optimization and Applications*.
+submitted.
 \[ [https://github.com/jramak/dual-adp-suc code/data] \].
 . [https://arxiv.org/pdf/1312.1332.pdf Optimization of Radiation Therapy Fractionation Schedules in the Presence of Tumor Repopulation] \n
 T. Bortfeld, J. Ramakrishnan, J. N. Tsitsiklis, and J. Unkelbach \n
