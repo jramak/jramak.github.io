@@ -1,8 +1,12 @@
 # jemdoc: menu{MENU}{menu.html}{./}
 = Papers
 
-== Publications and Preprints
+== Papers and Preprints
 
+. [https://arxiv.org/pdf/1902.09566.pdf Anomaly Detection for an E-commerce Pricing System] \n
+J. Ramakrishnan, E. Shaabani, C. Li, and M. A. Sustik \n
+submitted.
+\[ [https://github.com/walmartlabs/anomaly-detection-walmart code] \].
 . [https://arxiv.org/pdf/1801.02259.pdf A Dual Approximate Dynamic Programming Approach for Multi-stage Stochastic Unit Commitment] \n
 J. Ramakrishnan and J. Luedtke \n
 submitted.
