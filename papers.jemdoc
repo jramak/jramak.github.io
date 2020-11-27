@@ -1,61 +1,63 @@
 # jemdoc: menu{MENU}{menu.html}{./}
-= Papers
+= Publications
 
-== Papers and Preprints
+== Journal/Conference Publications 
 
+. [https://dl.acm.org/doi/pdf/10.1145/3394486.3403304 CLARA: Confidence of Labels and Raters] \n
+V. Nguyen, P. Shi, *J. Ramakrishnan*, U. Weinsberg, H. C. Lin, S. Metz, N. Chandra, J. Jing, D. Kalimeris \n
+/KDD 2020/, Applied Data Science Track, oral presentation \n
+\[[https://github.com/facebookresearch/clara code]\] \[[https://research.fb.com/blog/2020/08/improving-the-accuracy-of-community-standards-enforcement-by-certainty-estimation-of-human-decisions/ FB research blog]\] \[Acceptance rate = 5.8% (44/756)\]
 . [https://arxiv.org/pdf/1902.09566.pdf Anomaly Detection for an E-commerce Pricing System] \n
-J. Ramakrishnan, E. Shaabani, C. Li, and M. A. Sustik \n
-*The 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’19)*, August 4–8, 2019, Anchorage, AK, USA. \n
-Selected for *oral presentation* in Applied Data Science track \n
-Honorable Mention for Audience Appreciation award \n  
-\[ [https://github.com/walmartlabs/anomaly-detection-walmart code], [https://www.youtube.com/watch?v=PxFXfsw85mE video] \].
-. [https://arxiv.org/pdf/1801.02259.pdf A Dual Approximate Dynamic Programming Approach for Multi-stage Stochastic Unit Commitment] \n
-J. Ramakrishnan and J. Luedtke \n
-submitted. \n
-\[ [https://github.com/jramak/dual-adp-suc code/data] \].
+*J. Ramakrishnan*, E. Shaabani, C. Li, and M. A. Sustik \n
+/KDD 2019/, applied data science track, oral presentation, /honorable mention for audience appreciation award/ \n
+\[[https://github.com/walmartlabs/anomaly-detection-walmart code]\] \[[https://www.youtube.com/watch?v=PxFXfsw85mE video]\] \[Acceptance rate = 6.4% (45/700)\]
 . [https://arxiv.org/pdf/1312.1332.pdf Optimization of Radiation Therapy Fractionation Schedules in the Presence of Tumor Repopulation] \n
-T. Bortfeld, J. Ramakrishnan, J. N. Tsitsiklis, and J. Unkelbach \n
-*INFORMS Journal on Computing*, Vol. 27, No. 4, Fall 2015, pp. 788-803.
+T. Bortfeld, *J. Ramakrishnan*, J. N. Tsitsiklis, and J. Unkelbach \n
+/INFORMS Journal on Computing/, Vol. 27, No. 4, Fall 2015, pp. 788-803.
 . [https://arxiv.org/pdf/1311.5874.pdf Exploiting Tumor Shrinkage through Temporal Optimization of Radiotherapy] \n
-J. Unkelbach, D. Craft, T. Hong, D. Papp, J. Ramakrishnan, E. Salari, J. Wolfgang, and T. Bortfeld \n
-*Physics in Medicine and Biology*, Vol. 59, 2014, pp. 3059-3079.
+J. Unkelbach, D. Craft, T. Hong, D. Papp, *J. Ramakrishnan*, E. Salari, J. Wolfgang, and T. Bortfeld \n
+/Physics in Medicine and Biology/, Vol. 59, 2014, pp. 3059-3079.
 . [http://pages.discovery.wisc.edu/~jramakrishnan/UCS2013_optfrac.pdf The Dependence of Optimal Fractionation Schemes on the Spatial Dose Distribution] \n
-J. Unkelbach, D. Craft, E. Salari, J. Ramakrishnan, and T. Bortfeld, \n
-*Physics in Medicine and Biology*, Vol. 58, 2013, pp. 159-167. \n
+J. Unkelbach, D. Craft, E. Salari, *J. Ramakrishnan*, and T. Bortfeld, \n
+/Physics in Medicine and Biology/, Vol. 58, 2013, pp. 159-167. \n
 /News article featured on medicalphysicsweb/ ([http://medicalphysicsweb.org/cws/article/research/52164 link])
 . [https://arxiv.org/pdf/1312.7337.pdf Minimizing Metastatic Risk in Radiotherapy Fractionation Schedules] \n
-H. Badri, J. Ramakrishnan, and K Leder \n
-*Physics in Medicine and Biology*, Vol 60, 2015, pp. N405.
+H. Badri, *J. Ramakrishnan*, and K Leder \n
+/Physics in Medicine and Biology/, Vol 60, 2015, pp. N405.
 . [https://arxiv.org/pdf/1109.4524.pdf A Dynamic Programming Approach to Adaptive Fractionation] \n
-J. Ramakrishnan, D. Craft, T. Bortfeld, and J. N. Tsitsiklis \n
-*Physics in Medicine and Biology*, Vol. 57, 2012, pp. 1203-1216.
+*J. Ramakrishnan*, D. Craft, T. Bortfeld, and J. N. Tsitsiklis \n
+/Physics in Medicine and Biology/, Vol. 57, 2012, pp. 1203-1216.
 
 == Other Reports
 
+. [https://arxiv.org/pdf/1801.02259.pdf A Dual Approximate Dynamic Programming Approach for Multi-stage Stochastic Unit Commitment] \n
+*J. Ramakrishnan* and J. Luedtke \n
+Oct 2018. \n
+\[[https://github.com/jramak/dual-adp-suc code/data]\]
 . [https://www.gams.com/latest/docs/T_GDXMRW.html GDXMRW: Interfacing GAMS and MATLAB] \n
-S. Dirkse, M. C. Ferris, and J. Ramakrishnan \n
+S. Dirkse, M. C. Ferris, and *J. Ramakrishnan* \n
 Documentation, July 2014.
 . [./papers/radiotherapy_socp_cblib.pdf SOCP Radiotherapy Benchmark Test Case in CBLIB] \n
-J. Ramakrishnan and M. C. Ferris \n
+*J. Ramakrishnan* and M. C. Ferris \n
 Oct 2014.
 . [https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0suisGoAAAAJ&citation_for_view=0suisGoAAAAJ:W7OEmFMy1HYC A Mixed-integer Framework for Operational Decision-making in Sustainable Nutrient Management] \n
-A. Christensen, H. Dong, J. Ramakrishnan, M. Sharara, and M. Ferris.
+A. Christensen, H. Dong, *J. Ramakrishnan*, M. Sharara, and M. Ferris.
 
 == Patents
 
 . Methods and Apparatus for Anomaly Detections \n
-J. Ramakrishnan, E. Shaabani, C. Li, and M. A. Sustik \n
+*J. Ramakrishnan*, E. Shaabani, C. Li, and M. A. Sustik \n
 filed May 2019.
 . Prioritized Constraint Handling Techniques for Solving Optimization Problems \n
-J. Ramakrishnan and M. Sustik \n
+*J. Ramakrishnan* and M. Sustik \n
 filed Aug 2017.
 . [https://patents.google.com/patent/US20150202464 Multi-criteria Optimization in Particle Beam Dose Optimization] \n
-M. Brand and J. Ramakrishnan \n
+M. Brand and *J. Ramakrishnan* \n
 Publication number US20150202464, filed Jan 2014, published July 2015.
 
 == Ph.D. Thesis
 
 - [https://dspace.mit.edu/handle/1721.1/82181 Dynamic optimization of fractionation schedules in radiation therapy] \n
-J. Ramakrishnan \n
-Ph.D. Thesis, Department of EECS, MIT, June 2013. \n
-*Finalist, George B. Dantzig Dissertation Award, Informs Annual Meeting, 2013* ([https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/George-B.-Dantzig-Dissertation-Award link])
+*J. Ramakrishnan* \n
+/Ph.D. Thesis/, Department of EECS, MIT, June 2013. \n
+/Finalist, George B. Dantzig Dissertation Award, Informs Annual Meeting, 2013/ ([https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/George-B.-Dantzig-Dissertation-Award link])
