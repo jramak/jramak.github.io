@@ -27,6 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 logo: /assets/img/jag.jpg
+google_analytics: UA-111103427-1
 
 # Build settings
 theme: jekyll-theme-minimal
