@@ -1,17 +1,4 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: default
----
-
-**Welcome to my homepage!**
-
-I am a research scientist in the Central Applied Science team at Meta (formerly, Facebook), where I work on improving products or systems backed by research. Most recently, I worked on approaches to efficiently allocate human review resources, e.g., labels for training ML models, for product teams across the company (see recent papers below for more details).
-
-Before Meta, I was a staff data scientist at Walmart Labs, where I worked on approaches for automated pricing and anomaly detection. I received my Ph.D. in EECS at MIT, advised by Prof. John N. Tsitsiklis, Prof. David Craft, and Prof. Thomas Bortfeld, where I worked on operations research approaches for cancer treatment.
-
-### Recent Papers
+### Papers
 
 * [From Labels to Decisions: A Mapping-Aware Annotator Model](https://dl.acm.org/doi/pdf/10.1145/3580305.3599828)\
 E. Yao, **J. Ramakrishnan**, X. Chen, V. Nguyen, U. Weinsberg \
@@ -29,18 +16,3 @@ V. Nguyen, P. Shi, **J. Ramakrishnan**, U. Weinsberg, H. C. Lin, S. Metz, N. Cha
 **J. Ramakrishnan**, E. Shaabani, C. Li, and M. A. Sustik \
 **KDD 2019**, Applied Data Science Track, oral presentation, *Honorable Mention for Audience Appreciation Award* \
 \[[code](https://github.com/walmartlabs/anomaly-detection-walmart)\] \[[video](https://www.youtube.com/watch?v=PxFXfsw85mE)\] \[Acceptance rate = 6.4% (45/700)\]
-.
-
-You can find my full list of papers [here](./papers.html).
-
-### Past Teaching
-
-* TA, Introduction to Probability - The Science of Uncertainty
-  Undergraduate level
-  MIT, Fall 2011, 2012
-
-  Instructor for [EdX MOOC](https://www.edx.org/course/introduction-probability-science-mitx-6-041x), some teaching videos of me are on [YouTube](https://www.youtube.com/results?search_query=jagdish+ramakrishnan).
-
-* Guest Lecturer, Linear Programming, Optimization Modeling
-  Graduate level
-  UW-Madison, few lectures during 2014-2015
