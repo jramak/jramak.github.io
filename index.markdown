@@ -7,11 +7,11 @@ layout: default
 
 **Welcome to my homepage!**
 
-I am a research scientist in the Central Applied Science team at Meta (formerly, Facebook), where I work on improving products or systems backed by research. Most recently, I worked on approaches to efficiently allocate human review resources, e.g., labels for training ML models, for product teams across the company (see recent papers below for more details).
+I am a research scientist in the Central Applied Science team at Meta (formerly, Facebook), where I work on improving products or systems backed by research. I'm a tech lead working on efficient human review allocation, e.g., labels for ML models and integrity enforcement (see papers section for our recently published work).
 
-Before Meta, I was a staff data scientist at Walmart Labs, where I worked on approaches for automated pricing and anomaly detection. I received my Ph.D. in EECS at MIT, advised by Prof. John N. Tsitsiklis, Prof. David Craft, and Prof. Thomas Bortfeld, where I worked on operations research approaches for cancer treatment.
+Before Meta, I was a staff data scientist at Walmart Labs, where I worked on ML approaches for automated pricing of millions of products on Walmart's online catalog. I received my Ph.D. in EECS at MIT, advised by Prof. John N. Tsitsiklis, Prof. David Craft, and Prof. Thomas Bortfeld, where I worked on optimization approaches for radiotherapy cancer treatment.
 
-### Recent Papers
+### Recent Papers (full list [here](./papers.html))
 
 * [From Labels to Decisions: A Mapping-Aware Annotator Model](https://dl.acm.org/doi/pdf/10.1145/3580305.3599828)\
 E. Yao, **J. Ramakrishnan**, X. Chen, V. Nguyen, U. Weinsberg \
@@ -30,8 +30,6 @@ V. Nguyen, P. Shi, **J. Ramakrishnan**, U. Weinsberg, H. C. Lin, S. Metz, N. Cha
 **KDD 2019**, Applied Data Science Track, oral presentation, *Honorable Mention for Audience Appreciation Award* \
 \[[code](https://github.com/walmartlabs/anomaly-detection-walmart)\] \[[video](https://www.youtube.com/watch?v=PxFXfsw85mE)\] \[Acceptance rate = 6.4% (45/700)\]
 .
-
-You can find my full list of papers [here](./papers.html).
 
 ### Past Teaching
 
